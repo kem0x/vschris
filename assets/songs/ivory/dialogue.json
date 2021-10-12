@@ -1,0 +1,56 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [{
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Man... That was actually kind of sick.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/KindaSick_Cleaned"]
+            ]
+        },
+        {
+            "portrait": "bf",
+            "expression": "cheering",
+            "text": "Beep ba po",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_1"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "That was the most fun I had in awhile,\ndude.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/FunInAWhile_Cleaned"]
+            ]
+
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Considering I've been stuck down\nthere most of the time.\nSeriously, thank you.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/SeriousThank_Cleaned"]
+            ]
+
+        },
+        {
+            "portrait": "bf",
+            "expression": "talking",
+            "text": "Skdoo ba ",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_2"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "...I'll stick around for a little,\nalright?",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/StickAlright_Cleaned"]
+            ]
+
+        }
+    ]
+}

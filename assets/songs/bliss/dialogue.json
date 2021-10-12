@@ -1,0 +1,66 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "chris",
+            "expression": "silent",
+            "text": "..."
+        },
+        {
+            "portrait": "bf",
+            "expression": "silent",
+            "text": "..."
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Oh hey...!\nThis is my first time being summoned.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/OhHeySummoned_Cleaned"]
+            ]
+        },
+        {
+            "portrait": "bf",
+            "expression": "cheering",
+            "text": "Beep Bop",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_1"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Huh?",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/Huh_Cleaned"]
+            ]
+
+        },
+        {
+            "portrait": "bf",
+            "expression": "talking",
+            "text": "Bo",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_3"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "What a weird reason\nto be summoning demons...",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/WeirdReason_Cleaned"]
+            ]
+
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "But hey, I'm not here to judge.\nI'll sing with you for a bit, why not?",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/ButHey_Cleaned"]
+            ]
+        }
+    ]
+}

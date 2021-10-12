@@ -1,0 +1,10 @@
+{
+    "name": "bf",
+    "expressions": {
+        "talking": "BF talking",
+        "silent": "BF silent",
+        "cheering": "BF cheer"
+    },
+    "scale": 0.7,
+    "position": [600, 0]
+}

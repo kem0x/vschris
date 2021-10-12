@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chris.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chrisdown0000" x="0" y="0" width="443" height="708" frameX="0" frameY="-13" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0001" x="443" y="0" width="432" height="716" frameX="-5" frameY="-4" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0002" x="443" y="0" width="432" height="716" frameX="-5" frameY="-4" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0003" x="443" y="0" width="432" height="716" frameX="-5" frameY="-4" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0004" x="875" y="0" width="428" height="718" frameX="-9" frameY="0" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0005" x="875" y="0" width="428" height="718" frameX="-9" frameY="0" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisdown0006" x="875" y="0" width="428" height="718" frameX="-9" frameY="0" frameWidth="443" frameHeight="721"/>
+	<SubTexture name="chrisidle0000" x="1303" y="0" width="384" height="710" frameX="-49" frameY="-9" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0001" x="1303" y="0" width="384" height="710" frameX="-49" frameY="-9" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0002" x="1687" y="0" width="406" height="710" frameX="-26" frameY="-9" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0003" x="1687" y="0" width="406" height="710" frameX="-26" frameY="-9" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0004" x="2093" y="0" width="417" height="713" frameX="-13" frameY="-6" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0005" x="2093" y="0" width="417" height="713" frameX="-13" frameY="-6" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0006" x="2510" y="0" width="430" height="717" frameX="0" frameY="-2" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0007" x="2510" y="0" width="430" height="717" frameX="0" frameY="-2" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0008" x="2940" y="0" width="383" height="719" frameX="-47" frameY="0" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisidle0009" x="3323" y="0" width="380" height="719" frameX="-50" frameY="0" frameWidth="433" frameHeight="719"/>
+	<SubTexture name="chrisleft0000" x="0" y="719" width="404" height="734" frameX="-8" frameY="0" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0001" x="404" y="719" width="411" height="733" frameX="0" frameY="-1" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0002" x="404" y="719" width="411" height="733" frameX="0" frameY="-1" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0003" x="404" y="719" width="411" height="733" frameX="0" frameY="-1" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0004" x="815" y="719" width="387" height="732" frameX="-24" frameY="-2" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0005" x="815" y="719" width="387" height="732" frameX="-24" frameY="-2" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisleft0006" x="815" y="719" width="387" height="732" frameX="-24" frameY="-2" frameWidth="412" frameHeight="734"/>
+	<SubTexture name="chrisright0000" x="1202" y="719" width="515" height="718" frameX="0" frameY="-7" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0001" x="1717" y="719" width="514" height="723" frameX="-7" frameY="-2" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0002" x="1717" y="719" width="514" height="723" frameX="-7" frameY="-2" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0003" x="1717" y="719" width="514" height="723" frameX="-7" frameY="-2" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0004" x="2231" y="719" width="501" height="725" frameX="-6" frameY="0" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0005" x="2231" y="719" width="501" height="725" frameX="-6" frameY="0" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisright0006" x="2231" y="719" width="501" height="725" frameX="-6" frameY="0" frameWidth="521" frameHeight="725"/>
+	<SubTexture name="chrisup0000" x="2732" y="719" width="428" height="756" frameX="0" frameY="-9" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0001" x="3160" y="719" width="425" height="765" frameX="-2" frameY="0" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0002" x="3160" y="719" width="425" height="765" frameX="-2" frameY="0" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0003" x="3160" y="719" width="425" height="765" frameX="-2" frameY="0" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0004" x="3585" y="719" width="428" height="754" frameX="0" frameY="-11" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0005" x="3585" y="719" width="428" height="754" frameX="0" frameY="-11" frameWidth="428" frameHeight="765"/>
+	<SubTexture name="chrisup0006" x="3585" y="719" width="428" height="754" frameX="0" frameY="-11" frameWidth="428" frameHeight="765"/>
+</TextureAtlas>

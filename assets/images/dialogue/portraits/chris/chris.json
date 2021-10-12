@@ -1,0 +1,12 @@
+{
+    "name": "chris",
+    "expressions": {
+        "silent": "chris silent",
+        "talking": "chris talk"
+    },
+    "scale": 0.55,
+    "flipX": true,
+    "position": [-150, -180],
+
+    "soundChance": 0
+}

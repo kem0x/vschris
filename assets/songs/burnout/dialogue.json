@@ -1,0 +1,54 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [{
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "My time's almost up,\nI can't stay in the\nliving world forever, y'know?",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/YaKnow_Cleaned"]
+            ]
+        },
+        {
+            "portrait": "bf",
+            "expression": "talking",
+            "text": "Beep Ba",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_1"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Before I go,\nmake sure you don't do something\nlike this again. For your own safety.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/ForSafety_Cleaned"]
+            ]
+
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "Summoning demons can be dangerous,\nyou might end up with someone\nwho isn't as merciful as me.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/MercifulAsMe_Cleaned"]
+            ]
+        },
+        {
+            "portrait": "bf",
+            "expression": "talking",
+            "text": "Bop boo",
+            "events": [
+                ["sound", "images/dialogue/portraits/bf/BF_3"]
+            ]
+        },
+        {
+            "portrait": "chris",
+            "expression": "talking",
+            "text": "One more song, alright?\nIt was nice seeing you.",
+            "events": [
+                ["sound", "images/dialogue/portraits/chris/OneMoreSong_Cleaned"]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chrismenubounce.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CHRISBOUNCE0000" x="0" y="0" width="850" height="1024" frameX="0" frameY="-30" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0001" x="850" y="0" width="858" height="1025" frameX="0" frameY="-23" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0002" x="1708" y="0" width="866" height="1026" frameX="0" frameY="-16" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0003" x="2574" y="0" width="874" height="1026" frameX="0" frameY="-9" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0004" x="0" y="1026" width="841" height="997" frameX="-13" frameY="-19" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0005" x="841" y="1026" width="844" height="999" frameX="-13" frameY="-17" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0006" x="1685" y="1026" width="846" height="1000" frameX="-13" frameY="-15" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0007" x="2531" y="1026" width="849" height="1001" frameX="-13" frameY="-13" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0008" x="0" y="2027" width="851" height="1002" frameX="-13" frameY="-11" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0009" x="851" y="2027" width="859" height="1017" frameX="-18" frameY="0" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0010" x="851" y="2027" width="859" height="1017" frameX="-18" frameY="0" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0011" x="851" y="2027" width="859" height="1017" frameX="-18" frameY="0" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0012" x="851" y="2027" width="859" height="1017" frameX="-18" frameY="0" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0013" x="851" y="2027" width="859" height="1017" frameX="-18" frameY="0" frameWidth="877" frameHeight="1054"/>
+	<SubTexture name="CHRISBOUNCE0014" x="1710" y="2027" width="841" height="997" frameX="-13" frameY="-19" frameWidth="877" frameHeight="1054"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="chris.png">
+<SubTexture name="chris talking0000" x="3360" y="0" width="1120" height="916" frameX="0" frameY="0" frameWidth="1120" frameHeight="916" />
+<SubTexture name="chris talking0001" x="1120" y="0" width="1120" height="916" frameX="0" frameY="0" frameWidth="1120" frameHeight="916" />
+<SubTexture name="chris talking0002" x="0" y="0" width="1120" height="916" frameX="0" frameY="0" frameWidth="1120" frameHeight="916" />
+<SubTexture name="chris silent0000" x="3360" y="0" width="1120" height="916" frameX="0" frameY="0" frameWidth="1120" frameHeight="916" />
+</TextureAtlas>
